@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B42F6,100:FF007F&height=180&section=header&text=Mahitha%20JV&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B42F6&center=true&vCenter=true&random=false&width=600&height=50&lines=CSE+Student+%40+IIIT+Pune;Full+Stack+%26+ML+Enthusiast;Open+Source+Contributor;Building+Real-World+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7B42F6&center=true&vCenter=true&random=false&width=650&height=50&lines=CSE+Student+%40+IIIT+Pune;Full+Stack+%26+ML+Enthusiast;Exploring+LangChain+%26+RAG+Pipelines;Open+Source+Contributor;Building+Real-World+Solutions" alt="Typing SVG" />
 
 <br>
 
@@ -34,9 +34,9 @@ const mahitha = {
     pronouns: "She/Her",
     location: "India 🇮🇳",
     education: "B.Tech CSE, IIIT Pune '28 🎓",
-    focus: "Full Stack Development & Machine Learning 🚀",
-    currentlyLearning: ["Advanced React", "ML System Design", "Cloud & Containers"],
-    interests: ["Full Stack Dev", "UI/UX Design", "Hackathons", "Open Source"],
+    focus: "Full Stack Development, Machine Learning & GenAI 🚀",
+    currentlyLearning: ["Advanced React", "LangChain & RAG Pipelines", "ML System Design", "Cloud & Containers"],
+    interests: ["Full Stack Dev", "Applied ML / GenAI", "UI/UX Design", "Hackathons", "Open Source"],
     motto: "Code is like humor. When you have to explain it, it's bad."
 };
 ```
@@ -70,6 +70,16 @@ const mahitha = {
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
+#### 🤖 AI / ML / GenAI
+<div align="center">
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
 </td>
 <td valign="top" width="50%">
 
@@ -77,6 +87,7 @@ const mahitha = {
 <div align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/EJS-B38B59?style=for-the-badge&logo=ejs&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -94,6 +105,22 @@ const mahitha = {
 </td>
 </tr>
 </table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">🚀 Featured Work</h2>
+
+<div align="center">
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🧠 **RAG-Powered Q&A Assistant** | Retrieval-Augmented Generation pipeline that grounds LLM answers in a custom knowledge base for accurate, context-aware responses | `LangChain` `Vector DB` `Python` `OpenAI API` |
+| 🌾 **SmartAgri** | Smart farming system combining sensor data and ML models to support crop decisions | `Python` `ML` `Full Stack` |
+| 🤟 **Sign Language Recognition & Translation** | Real-time system that recognizes sign language gestures and translates them into text/speech | `Python` `Computer Vision` `ML` |
+
+*(Swap in your actual repo links and adjust descriptions as needed!)*
 
 </div>
 
@@ -119,4 +146,8 @@ const mahitha = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahithaJV/MahithaJV/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/MahithaJV/MahithaJV/output/github-snake.svg" />
   </picture>
+</div>
+
+<div align="center">
+  <sub>⭐ Thanks for stopping by — feel free to explore my repos and connect!</sub>
 </div>
