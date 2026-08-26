@@ -159,44 +159,6 @@ const mahitha = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- GitHub Stats -->
-<!-- GitHub Statistics -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-
-<!-- Updated URL -->
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=MahithaJV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<!-- Updated URL -->
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MahithaJV&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahithaJV&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=MahithaJV&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MahithaJV&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
 
 
 <!-- Contribution Snake -->
