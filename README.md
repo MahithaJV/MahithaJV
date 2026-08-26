@@ -160,14 +160,15 @@ const mahitha = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- GitHub Stats -->
+<!-- GitHub Statistics -->
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MahithaJV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B42F6&icon_color=7B42F6&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahithaJV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=MahithaJV&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B42F6&ring=7B42F6&fire=FF6B6B&currStreakLabel=7B42F6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahithaJV&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -175,13 +176,26 @@ const mahitha = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahithaJV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B42F6&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahithaJV&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=7B42F6&line=FF007F&point=FFFFFF&area=true&area_color=7B42F6"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MahithaJV&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=MahithaJV&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MahithaJV&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
 
 <!-- Contribution Snake -->
 
